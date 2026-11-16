@@ -1,0 +1,18 @@
+.menu{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px;
+  background-color: var(--light);
+  color: var(--azul);
+  box-shadow: var(--sombra);
+}
+
+.wrapHome{
+  min-height: 100vh;
+  height: auto;
+  background-color: var(--dark);
+  color: var(--light);
+
+}
